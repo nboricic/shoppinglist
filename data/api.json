@@ -1,166 +1,24 @@
 {
   "items": [
     {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
+      "id": "1",
+      "name": "Apple"
+    },
+    {
       "id": "2",
-      "name": "Master Store (Shared)",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
+      "name": "Pear"
     },
     {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
       "id": "3",
-      "name": "Verizon Corporate",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
+      "name": "Banana"
     },
     {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
       "id": "4",
-      "name": "A Wireless",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
+      "name": "Coke"
     },
     {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
       "id": "5",
-      "name": "Cellular Sales",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "6",
-      "name": "Russell Cellular",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "7",
-      "name": "Go Wireless",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "8",
-      "name": "Moorehead Communications",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "9",
-      "name": "Other Verizon Wireless Agents",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "10",
-      "name": "Best Buy Corporate",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "11",
-      "name": "Wireless Zone",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "12",
-      "name": "US MotoAgents",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "13",
-      "name": "AT&T Corporate",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "14",
-      "name": "Sprint Corporate",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "15",
-      "name": "USC Corporate",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "16",
-      "name": "T-Mobile",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "17",
-      "name": "Metro PCS",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "18",
-      "name": "Boost Mobile",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
-    },
-    {
-      "supplier_id": "1",
-      "created_at": "2018-06-06 21:20:24",
-      "updated_at": "2018-06-06 21:20:24",
-      "proof_of_identity_limit": 2999,
-      "id": "19",
-      "name": "Cricket",
-      "currency": "                    <p class=\"\">\n                        <span>1</span> points                    </p>\n                    "
+      "name": "Pepsi"
     }
   ]
 }
